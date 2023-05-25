@@ -1,1 +1,17 @@
 # another-nas-tools
+## 模块
+- [ ] [http服务](./pkg/http)
+    - [ ] [用户管理](./pkg/http/user)
+    - [ ] [角色管理](./pkg/http/role)
+    - [ ] [媒体管理](./pkg/http/media)
+    - [ ] [任务管理](./pkg/http/task)
+    - [ ] [日志管理](./pkg/http/log)
+    - [ ] [下载管理](./pkg/http/download)
+    - [ ] [插件管理](./pkg/http/plugin)
+    - [ ] [健康检查](./pkg/http/health) 
+- [x] [应用生命周期](./pkg/lifecycle)
+- [x] [任务执行器](./pkg/task)
+- [ ] [定时任务](./pkg/cron)
+- [ ] [下载管理](./pkg/download)
+- [ ] [日志记录](./pkg/log)
+- [ ] [插件管理](./pkg/plugin)
