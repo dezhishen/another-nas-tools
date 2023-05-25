@@ -1,8 +1,6 @@
 package main
 
 import (
-	"net/http"
-
 	"github.com/dezhishen/another-nas-tools/pkg/http"
 	"github.com/dezhishen/another-nas-tools/pkg/lifecycle"
 )
