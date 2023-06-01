@@ -1,4 +1,5 @@
 # another-nas-tools
+[![wakatime](https://wakatime.com/badge/user/a2c981ca-317d-4b34-8ed9-4264fbfdb775/project/d4580dbe-68b9-4644-b19e-1fab9a292d96.svg)](https://wakatime.com/badge/user/a2c981ca-317d-4b34-8ed9-4264fbfdb775/project/d4580dbe-68b9-4644-b19e-1fab9a292d96)
 - 本服务将以golang开发,使用插件化的方式,提供nas的各种功能
 - 根据功能定义interface
 - 通过插件实现interface,提供具体的功能实现
